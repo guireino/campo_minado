@@ -1,16 +1,13 @@
 # campo_minado
 
-A new Flutter project.
+A projeto de um jogo de campo minado que eu fiz no curso do site udemy da cod3r.
 
-## Getting Started
+O menu do game mostra a dificuldade que o usuário vai ter que escolher entre Modo Easy e Normal ou Hard.
 
-This project is a starting point for a Flutter application.
+<img src="screenshot/Screenshot_0.png" width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshot/Screenshot_1.png" width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshot/Screenshot_2.png" width="300" height="600">
 
-A few resources to get you started if this is your first Flutter project:
+# 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O Jogador pode perda e segurar no campo para sinalizar quando achar que é um campo minado
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot/Screenshot_2.png" width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshot/Screenshot_3.png" width="300" height="600">
