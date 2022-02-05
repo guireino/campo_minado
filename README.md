@@ -10,4 +10,10 @@ O menu do game mostra a dificuldade que o usuário vai ter que escolher entre Mo
 
 O Jogador pode perda e segurar no campo para sinalizar quando achar que é um campo minado
 
-<br/><img src="screenshot/Screenshot_2.png" width="300" height="600"> &nbsp; <img src="screenshot/Screenshot_2.png" width="300" height="600"> &nbsp; <img src="screenshot/Screenshot_3.png" width="300" height="600">
+<br/><img src="screenshot/Screenshot_2.png" width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshot/Screenshot_2.png" width="300" height="600">
+
+# 
+
+Game Over
+
+<img src="screenshot/Screenshot_3.png" width="300" height="600">
